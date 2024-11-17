@@ -49,6 +49,16 @@ Para ser honesto hay algunas cosas que se podrian mejorar:
 - Solo tiene un patron de mascara
 - No maneja caracteres especiales
 
+## Modo de uso
+
+profe lo puede correr directamente en colab por ello acá le dejo el link donde esta explicado y donde lo puede correr
+LINK --> https://colab.research.google.com/drive/1JghSmfSf4Qtnl4aIKQrtiXj8oKrylhfR?usp=sharing
+
+sino tambien esta la parte del mero codigo limpio lo copia y lo pega donde quiera.
+
+## NOTA
+Por otro lado profe, muchas gracias por las clases, la verdad nunca habia ido tanto a clases, y la verdad es porque usted hace que sean mas entretenidas y den ganas de seguir yendo, agradezco mucho lo que nos enseño y gracias por los repositorio porque los voy a estar mirando mucho, espero profe verlo por ahi en la U y muchas gracias de nuevo, es usted muy amable y me gusto mucho el curso. Dios lo bendiga.
+
 Pero considero que cumple con los requisitos del trabajo y demuestra que entiendo los conceptos principales de como funcionan los codigos QR.
 
 Si necesita que mejore algo o tiene sugerencias, me avisa!
